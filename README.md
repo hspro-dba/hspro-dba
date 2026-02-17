@@ -1,6 +1,6 @@
 # Hi there, I'm Hugo Silva Lima 👋
 
-### Senior SQL Server DBA & Database Reliability Engineer (DBRE)
+### Microsoft Certified DBA / DBRE SQL Server | Performance, HA & Cloud Solutions | MongoDB Associate
 
 I manage high-scale, mission-critical distributed environments where data integrity meets system automation. With a portfolio covering over **140TB** of data and nearly **900 databases**, my work focuses on building resilient architectures that are highly available, observable, and automated.
 
