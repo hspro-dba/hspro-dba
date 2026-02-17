@@ -1,7 +1,9 @@
 ## 📈 GitHub Metrics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hspro-dba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Hugo's GitHub Stats" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hspro-dba&layout=compact&theme=dracula&hide=html,css" alt="Most Used Languages" />
 </p>
 
