@@ -1,16 +1,4 @@
-## 📊 Activity & Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hspro-dba&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hspro-dba&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hspro-dba&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" width="300" />
-</p>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 # Hi there, I'm Hugo Silva Lima 👋
 
