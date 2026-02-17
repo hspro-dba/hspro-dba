@@ -28,5 +28,5 @@ I manage high-scale, mission-critical distributed environments where data integr
 ---
 
 ## 🚀 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/feed/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-silva-dba-pro/)
 - 📧 [Email](mailto:hugosilva_databases@outlook.com)
