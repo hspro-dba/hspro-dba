@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Hugo Silva Lima 👋
 
-<!--
-**hspro-dba/hspro-dba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior SQL Server DBA & Database Reliability Engineer (DBRE)
 
-Here are some ideas to get you started:
+I manage high-scale, mission-critical distributed environments where data integrity meets system automation. With a portfolio covering over **140TB** of data and nearly **900 databases**, my work focuses on building resilient architectures that are highly available, observable, and automated.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 My Infrastructure at a Glance
+- **Environment:** Managing 3 companies with a total volume of **147 TB** of data.
+- **Scale:** 40+ SQL Server Instances and **900+ Databases**.
+- **Governance:** Managing **3k+ nominal users** via standardized RBAC.
+- **High Availability:** 17+ AlwaysOn Clusters (3-node setup) with Read-Only Routing.
+
+## 🛠️ Technical Stack & Skills
+- **Databases:** SQL Server (Expert), MongoDB (Associate).
+- **Automation:** PowerShell, dbatools, Ola Hallengren Maintenance Solution.
+- **Observability:** Zabbix, Grafana, Extended Events (XEvents).
+- **Core Skills:** Performance Tuning, Query Store, Data Masking, Backup Strategy.
+
+## 📜 Certifications
+* **DP-300:** Administering Microsoft Azure SQL Solutions
+* **DP-900:** Microsoft Azure Data Fundamentals
+* **AZ-900:** Microsoft Azure Fundamentals
+* **MTA:** Database Administration Fundamentals
+* **MongoDB:** Associate Database Administrator
+
+---
+
+## 🚀 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)
+- 📧 [Email](mailto:hugosilva_databases@outlook.com)
