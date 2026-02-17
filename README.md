@@ -1,10 +1,15 @@
-## 📈 GitHub Metrics
+## 📊 Activity & Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hspro-dba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Hugo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hspro-dba&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hspro-dba&layout=compact&theme=dracula&hide=html,css" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hspro-dba&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hspro-dba&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" width="300" />
 </p>
 
 # Hi there, I'm Hugo Silva Lima 👋
