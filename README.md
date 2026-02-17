@@ -2,7 +2,7 @@
 
 ### Microsoft Certified DBA / DBRE SQL Server | Performance, HA & Cloud Solutions | MongoDB Associate
 
-I manage high-scale, mission-critical distributed environments where data integrity meets system automation. With a portfolio covering over **140TB** of data and nearly **900 databases**, my work focuses on building resilient architectures that are highly available, observable, and automated.
+I manage high-scale, mission-critical distributed environments where data integrity meets system automation. With a portfolio covering over **140TB** of data and **900+ databases**, my work focuses on building resilient architectures that are highly available, observable, and automated.
 
 ---
 
