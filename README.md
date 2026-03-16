@@ -1,6 +1,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-FFD43B?style=flat-square&logo=microsoft-sql-server&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-# Hugo Silva Lima
+# Hugo Lima
 
 ### Microsoft Certified DBA / DBRE SQL Server | Performance, HA & Cloud Solutions | MongoDB Associate
 
